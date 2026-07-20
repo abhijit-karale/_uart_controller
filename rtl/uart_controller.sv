@@ -9,7 +9,7 @@ module uart_controller #(
     parameter CLK_FREQ  = 50_000_000,
     parameter BAUD_RATE = 115_200
 ) (
-    input  logic       clk,
+    input  logic       clk, 
     input  logic       rst_n,
 
     // TX side
