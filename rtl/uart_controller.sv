@@ -1,4 +1,3 @@
-
 // -----------------------------------------------------------------------------
 // Module      : uart_controller
 // Description : Simple UART controller (8 data bits, no parity, 1 stop bit).
