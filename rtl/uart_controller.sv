@@ -2,7 +2,7 @@
 // Module      : uart_controller
 // Description : Simple UART controller (8 data bits, no parity, 1 stop bit).
 //               Contains independent transmitter (uart_tx) and receiver
- //               (uart_rx) sharing a common baud-rate generator.
+//               (uart_rx) sharing a common baud-rate generator.
 // Author      : Abhijit Karale
 // -----------------------------------------------------------------------------
 module uart_controller #(
