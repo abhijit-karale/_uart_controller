@@ -4,7 +4,7 @@
  //               Contains independent transmitter (uart_tx) and receiver
  //               (uart_rx) sharing a common baud-rate generator.
  // Author      : Abhijit Karale
-// -----------------------------------------------------------------------------
+ // -----------------------------------------------------------------------------
 module uart_controller #(
     parameter CLK_FREQ  = 50_000_000,
     parameter BAUD_RATE = 115_200
